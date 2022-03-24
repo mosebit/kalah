@@ -1,5 +1,5 @@
 # kalah
-Kalah game on C. Bot in this solution uses Minimax algorithm. 
+Kalah game on C/C++. Bot in this solution uses Minimax algorithm. 
 
 Description of some functions:
   move - makes a move according to the rules of kalh game
